@@ -1,0 +1,16 @@
+{
+  "id": 34,
+  "script_no": 160,
+  "slug": "no34-codex-starter",
+  "title": "Codex 導入ガイド",
+  "description": "導入から初めてのツール制作まで。Web・動画・スタンプの指示文も収録。",
+  "tags": [
+    "Codex",
+    "AI活用",
+    "仕事効率化"
+  ],
+  "image": "assets/preview-ai-v1/no34.jpg",
+  "image_source": "C:\\ClaudeCode\\present_making\\_deploy\\no34-codex-starter\\assets\\eyecatch.jpg",
+  "image_destination": "C:\\ClaudeCode\\present_making\\_deploy\\present-summary-page\\assets\\preview-ai-v1\\no34.jpg",
+  "status": "local_draft_not_registered"
+}
